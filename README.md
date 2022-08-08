@@ -6,13 +6,13 @@ Bootcamp Santander/DIO - 2022
 
 Nesta referida aula, trabalhou-se os conceitos de POO abaixo:
 
-# Abstração
+## Abstração
 
-# Encapsulamento
+## Encapsulamento
 
-# Herança
+## Herança
 
-# Polimorfismo
+## Polimorfismo
 
 
 ## 🚀 Let's code! 🚀
